@@ -1,6 +1,9 @@
 INTRODUCCION A APIREST 
-Se elaboro el codigo de las entidades que se ven en los videos
-Introducción a Api Rest
+
+Se elaboro el codigo de las entidades que se ven en los videos. A continuacion se muestran los pasos a seguir de las vizualizaciones sobre este trabajo practico.
+
+Introducción a Api Rest:
+
 API REST con Spring Boot | 1 | Introducción
 
 API REST con Spring Boot | 2 | Creación y configuración del proyecto
